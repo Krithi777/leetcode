@@ -52,6 +52,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Krithi777/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Krithi777/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Krithi777/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +82,5 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Krithi777/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
