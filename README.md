@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/Krithi777/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Krithi777/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Krithi777/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/Krithi777/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krithi777/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Krithi777/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/Krithi777/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krithi777/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## String
 | Problem Name | Difficulty |
