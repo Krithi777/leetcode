@@ -19,6 +19,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Krithi777/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Krithi777/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krithi777/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Krithi777/leetcode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Krithi777/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Krithi777/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krithi777/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Krithi777/leetcode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
