@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Krithi777/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0136-single-number](https://github.com/Krithi777/leetcode/tree/main/0136-single-number/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/Krithi777/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Krithi777/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Krithi777/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Krithi777/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -34,6 +35,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krithi777/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Krithi777/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krithi777/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krithi777/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -48,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Krithi777/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +130,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krithi777/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Krithi777/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/Krithi777/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Krithi777/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
