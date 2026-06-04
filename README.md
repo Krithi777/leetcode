@@ -19,6 +19,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Krithi777/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Krithi777/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Krithi777/leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Krithi777/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Krithi777/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krithi777/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Krithi777/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -34,6 +35,7 @@
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Krithi777/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Krithi777/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Krithi777/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krithi777/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -47,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krithi777/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Krithi777/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Krithi777/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Krithi777/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krithi777/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Krithi777/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Two Pointers
