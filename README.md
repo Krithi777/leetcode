@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/Krithi777/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krithi777/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Krithi777/leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krithi777/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Krithi777/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Krithi777/leetcode/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Krithi777/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Krithi777/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
@@ -60,6 +62,7 @@
 | [0027-remove-element](https://github.com/Krithi777/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Krithi777/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krithi777/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krithi777/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Krithi777/leetcode/tree/main/0283-move-zeroes/) | Easy |
