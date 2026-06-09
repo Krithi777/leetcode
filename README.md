@@ -180,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krithi777/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krithi777/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krithi777/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -193,4 +194,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3028-ant-on-the-boundary](https://github.com/Krithi777/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krithi777/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
