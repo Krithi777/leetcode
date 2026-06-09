@@ -184,6 +184,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krithi777/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krithi777/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Krithi777/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3174-clear-digits](https://github.com/Krithi777/leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,9 +197,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3028-ant-on-the-boundary](https://github.com/Krithi777/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3174-clear-digits](https://github.com/Krithi777/leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krithi777/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Krithi777/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3174-clear-digits](https://github.com/Krithi777/leetcode/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
