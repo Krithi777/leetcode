@@ -76,6 +76,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krithi777/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Krithi777/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Krithi777/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Krithi777/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
@@ -184,6 +185,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krithi777/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Krithi777/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krithi777/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krithi777/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Krithi777/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -200,6 +202,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Krithi777/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Krithi777/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Krithi777/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3174-clear-digits](https://github.com/Krithi777/leetcode/tree/main/3174-clear-digits/) | Easy |
 ## Stack
@@ -208,6 +211,7 @@
 | [0503-next-greater-element-ii](https://github.com/Krithi777/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Krithi777/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Krithi777/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Krithi777/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krithi777/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Krithi777/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3174-clear-digits](https://github.com/Krithi777/leetcode/tree/main/3174-clear-digits/) | Easy |
