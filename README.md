@@ -95,6 +95,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/Krithi777/leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Krithi777/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0461-hamming-distance](https://github.com/Krithi777/leetcode/tree/main/0461-hamming-distance/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
