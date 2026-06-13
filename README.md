@@ -208,6 +208,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Krithi777/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Krithi777/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0901-online-stock-span](https://github.com/Krithi777/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Simulation
@@ -224,6 +225,7 @@
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Krithi777/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krithi777/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/Krithi777/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Krithi777/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Krithi777/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Krithi777/leetcode/tree/main/0735-asteroid-collision/) | Medium |
