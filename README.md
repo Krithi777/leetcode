@@ -12,6 +12,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krithi777/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Krithi777/leetcode/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Krithi777/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krithi777/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Krithi777/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Krithi777/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -99,6 +100,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Krithi777/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Krithi777/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/Krithi777/leetcode/tree/main/0415-add-strings/) | Easy |
@@ -221,6 +223,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Krithi777/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Krithi777/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Krithi777/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Krithi777/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Krithi777/leetcode/tree/main/0735-asteroid-collision/) | Medium |
