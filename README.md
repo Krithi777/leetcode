@@ -252,8 +252,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Krithi777/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Krithi777/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Krithi777/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Krithi777/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
