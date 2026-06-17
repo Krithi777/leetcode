@@ -75,6 +75,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Krithi777/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Krithi777/leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/Krithi777/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krithi777/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krithi777/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -253,6 +254,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Krithi777/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Krithi777/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/Krithi777/leetcode/tree/main/0061-rotate-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
