@@ -78,6 +78,7 @@
 | [0061-rotate-list](https://github.com/Krithi777/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krithi777/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Krithi777/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Krithi777/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krithi777/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
@@ -257,6 +258,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Krithi777/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Krithi777/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Krithi777/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Krithi777/leetcode/tree/main/0086-partition-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
