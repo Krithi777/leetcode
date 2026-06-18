@@ -80,6 +80,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Krithi777/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Krithi777/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0143-reorder-list](https://github.com/Krithi777/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krithi777/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Krithi777/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -228,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Krithi777/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0143-reorder-list](https://github.com/Krithi777/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krithi777/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Krithi777/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Krithi777/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -260,9 +262,11 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Krithi777/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Krithi777/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Krithi777/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Krithi777/leetcode/tree/main/0143-reorder-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Krithi777/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Krithi777/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0143-reorder-list](https://github.com/Krithi777/leetcode/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
