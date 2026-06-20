@@ -87,6 +87,7 @@
 | [0844-backspace-string-compare](https://github.com/Krithi777/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Krithi777/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Krithi777/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Krithi777/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -266,6 +267,7 @@
 | [0143-reorder-list](https://github.com/Krithi777/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Krithi777/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Krithi777/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Krithi777/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
