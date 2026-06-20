@@ -113,6 +113,7 @@
 | [0415-add-strings](https://github.com/Krithi777/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Krithi777/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krithi777/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Krithi777/leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@
 | [0901-online-stock-span](https://github.com/Krithi777/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krithi777/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Krithi777/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Krithi777/leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/Krithi777/leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Krithi777/leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Monotonic Stack
@@ -268,6 +270,7 @@
 | [0328-odd-even-linked-list](https://github.com/Krithi777/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Krithi777/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Krithi777/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Krithi777/leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
