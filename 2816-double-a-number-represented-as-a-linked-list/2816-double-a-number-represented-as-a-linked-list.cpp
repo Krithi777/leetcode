@@ -12,13 +12,10 @@ class Solution {
 public:
     ListNode* doubleIt(ListNode* head) {
         ListNode* t=head;
-        ListNode dummy(0);
-        ListNode* n=&dummy;
         if(t->val>=5)
         {
-            ListNode* temp=new ListNode(1);
-            n->next=temp;
-            n=n->next;
+            ListNode* temp=new ListNode(1,t);
+            head=temp;
         }
         while(t!=NULL)
         {
@@ -26,11 +23,9 @@ public:
             if(t->next!=NULL && t->next->val>=5)
                 k=1;
             k=k+(t->val*2)%10;
-            ListNode* j=new ListNode(k);
-            n->next=j;
-            n=n->next;
+            t->val=k;
             t=t->next;
         }
-        return dummy.next;
+        return head;
     }
 };
