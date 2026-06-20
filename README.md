@@ -263,6 +263,7 @@
 | [0086-partition-list](https://github.com/Krithi777/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Krithi777/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Krithi777/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Krithi777/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
