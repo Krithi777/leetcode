@@ -148,6 +148,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Krithi777/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krithi777/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Krithi777/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +197,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Krithi777/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Krithi777/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
