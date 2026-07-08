@@ -20,6 +20,7 @@ public:
         if(t->left==NULL && t->right==NULL)
         {
            s.push_back(k);
+           return;
         }
         k+="->";
         dfs(t->left,k);
