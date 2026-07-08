@@ -146,6 +146,7 @@
 | [0226-invert-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krithi777/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Krithi777/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Krithi777/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -163,6 +164,7 @@
 | [0226-invert-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krithi777/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Krithi777/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Krithi777/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -195,6 +197,7 @@
 | [0226-invert-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krithi777/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Krithi777/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Krithi777/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -225,6 +228,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krithi777/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/Krithi777/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Krithi777/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Krithi777/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0415-add-strings](https://github.com/Krithi777/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Krithi777/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Krithi777/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -349,4 +353,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Krithi777/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Krithi777/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
