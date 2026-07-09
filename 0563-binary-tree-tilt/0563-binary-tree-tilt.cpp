@@ -17,10 +17,8 @@ public:
           return 0;
         int m=dfs(t->left,v);
         int n=dfs(t->right,v);
-        int h=t->val+m+n;
-        t->val=abs(m-n);
-        v+=t->val;
-        return h;
+        v+=abs(m-n);
+        return t->val+m+n;
     }
     int findTilt(TreeNode* root) {
         int k=0;
