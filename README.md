@@ -38,6 +38,7 @@
 | [0904-fruit-into-baskets](https://github.com/Krithi777/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Krithi777/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0994-rotting-oranges](https://github.com/Krithi777/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Krithi777/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Krithi777/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krithi777/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -197,6 +198,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Krithi777/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0695-max-area-of-island](https://github.com/Krithi777/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Krithi777/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Krithi777/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,4 +391,5 @@
 | [0200-number-of-islands](https://github.com/Krithi777/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Krithi777/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Krithi777/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Krithi777/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
