@@ -190,6 +190,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Krithi777/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Krithi777/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Krithi777/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/Krithi777/leetcode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0695-max-area-of-island](https://github.com/Krithi777/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Krithi777/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -211,6 +212,7 @@
 | [0463-island-perimeter](https://github.com/Krithi777/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Krithi777/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Krithi777/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0547-number-of-provinces](https://github.com/Krithi777/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Krithi777/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Krithi777/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Krithi777/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -407,6 +409,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Krithi777/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Krithi777/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/Krithi777/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Krithi777/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -417,4 +420,8 @@
 | [0695-max-area-of-island](https://github.com/Krithi777/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Krithi777/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Krithi777/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Krithi777/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
