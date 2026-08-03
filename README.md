@@ -195,6 +195,7 @@
 | [0684-redundant-connection](https://github.com/Krithi777/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Krithi777/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Krithi777/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Krithi777/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +219,7 @@
 | [0695-max-area-of-island](https://github.com/Krithi777/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Krithi777/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Krithi777/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Krithi777/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -414,6 +416,7 @@
 | [0547-number-of-provinces](https://github.com/Krithi777/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Krithi777/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Krithi777/leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Krithi777/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,4 +431,5 @@
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Krithi777/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Krithi777/leetcode/tree/main/0684-redundant-connection/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Krithi777/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
