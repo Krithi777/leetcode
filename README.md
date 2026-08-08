@@ -130,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Krithi777/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0070-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krithi777/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Krithi777/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -432,4 +433,12 @@
 | [0547-number-of-provinces](https://github.com/Krithi777/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Krithi777/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Krithi777/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
