@@ -39,6 +39,7 @@
 | [0733-flood-fill](https://github.com/Krithi777/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/Krithi777/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Krithi777/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Krithi777/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Krithi777/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -441,6 +442,7 @@
 | [0070-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Krithi777/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Krithi777/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
