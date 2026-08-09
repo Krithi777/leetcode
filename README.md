@@ -281,6 +281,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krithi777/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/Krithi777/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Krithi777/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0091-decode-ways](https://github.com/Krithi777/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Krithi777/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0415-add-strings](https://github.com/Krithi777/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Krithi777/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -442,6 +443,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/Krithi777/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/Krithi777/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Krithi777/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
