@@ -46,6 +46,7 @@
 | [0904-fruit-into-baskets](https://github.com/Krithi777/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Krithi777/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0983-minimum-cost-for-tickets](https://github.com/Krithi777/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0994-rotting-oranges](https://github.com/Krithi777/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Krithi777/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Krithi777/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -452,6 +453,7 @@
 | [0403-frog-jump](https://github.com/Krithi777/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0983-minimum-cost-for-tickets](https://github.com/Krithi777/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
