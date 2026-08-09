@@ -28,6 +28,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Krithi777/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Krithi777/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Krithi777/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0403-frog-jump](https://github.com/Krithi777/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0463-island-perimeter](https://github.com/Krithi777/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Krithi777/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Krithi777/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -448,6 +449,7 @@
 | [0152-maximum-product-subarray](https://github.com/Krithi777/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Krithi777/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Krithi777/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0403-frog-jump](https://github.com/Krithi777/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
