@@ -147,6 +147,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krithi777/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Krithi777/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/Krithi777/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0415-add-strings](https://github.com/Krithi777/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Krithi777/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Krithi777/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -224,6 +225,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Krithi777/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Krithi777/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Krithi777/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/Krithi777/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Krithi777/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Krithi777/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Krithi777/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -462,6 +464,7 @@
 | [0152-maximum-product-subarray](https://github.com/Krithi777/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Krithi777/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Krithi777/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/Krithi777/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0403-frog-jump](https://github.com/Krithi777/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0576-out-of-boundary-paths](https://github.com/Krithi777/leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
@@ -479,4 +482,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Krithi777/leetcode/tree/main/0062-unique-paths/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Krithi777/leetcode/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Krithi777/leetcode/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
