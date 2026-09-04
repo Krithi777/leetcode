@@ -460,6 +460,7 @@
 | [0198-house-robber](https://github.com/Krithi777/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Krithi777/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0403-frog-jump](https://github.com/Krithi777/leetcode/tree/main/0403-frog-jump/) | Hard |
+| [0576-out-of-boundary-paths](https://github.com/Krithi777/leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/Krithi777/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
