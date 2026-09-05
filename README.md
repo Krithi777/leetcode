@@ -150,6 +150,7 @@
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Krithi777/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Krithi777/leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0343-integer-break](https://github.com/Krithi777/leetcode/tree/main/0343-integer-break/) | Medium |
 | [0415-add-strings](https://github.com/Krithi777/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/Krithi777/leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Krithi777/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -470,6 +471,7 @@
 | [0279-perfect-squares](https://github.com/Krithi777/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Krithi777/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Krithi777/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0343-integer-break](https://github.com/Krithi777/leetcode/tree/main/0343-integer-break/) | Medium |
 | [0403-frog-jump](https://github.com/Krithi777/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0576-out-of-boundary-paths](https://github.com/Krithi777/leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
