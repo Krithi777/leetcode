@@ -505,4 +505,8 @@
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Krithi777/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Krithi777/leetcode/tree/main/0322-coin-change/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/Krithi777/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
