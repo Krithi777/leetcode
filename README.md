@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/Krithi777/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Krithi777/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Krithi777/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0078-subsets](https://github.com/Krithi777/leetcode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krithi777/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Krithi777/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -139,6 +140,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Krithi777/leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Krithi777/leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Krithi777/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0461-hamming-distance](https://github.com/Krithi777/leetcode/tree/main/0461-hamming-distance/) | Easy |
@@ -434,6 +436,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Krithi777/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/Krithi777/leetcode/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Krithi777/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
