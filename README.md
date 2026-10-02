@@ -436,6 +436,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Krithi777/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0077-combinations](https://github.com/Krithi777/leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Krithi777/leetcode/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Krithi777/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 ## Union-Find
