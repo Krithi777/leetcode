@@ -59,6 +59,7 @@
 | [0994-rotting-oranges](https://github.com/Krithi777/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Krithi777/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Krithi777/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/Krithi777/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Krithi777/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Krithi777/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Krithi777/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -405,6 +406,7 @@
 | [0743-network-delay-time](https://github.com/Krithi777/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Krithi777/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Krithi777/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/Krithi777/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +471,7 @@
 | [0684-redundant-connection](https://github.com/Krithi777/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Krithi777/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Krithi777/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Krithi777/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -534,11 +537,13 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Krithi777/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Krithi777/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Krithi777/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Krithi777/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 ## Bellman–Ford Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
