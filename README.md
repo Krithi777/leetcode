@@ -468,6 +468,7 @@
 | [0547-number-of-provinces](https://github.com/Krithi777/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Krithi777/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Krithi777/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Krithi777/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -494,6 +495,7 @@
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/Krithi777/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -531,8 +533,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Krithi777/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Krithi777/leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 <!---LeetCode Topics End-->
