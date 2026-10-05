@@ -312,6 +312,7 @@
 | [0709-to-lower-case](https://github.com/Krithi777/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Krithi777/leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krithi777/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Krithi777/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Krithi777/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Krithi777/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3174-clear-digits](https://github.com/Krithi777/leetcode/tree/main/3174-clear-digits/) | Easy |
@@ -498,6 +499,7 @@
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/Krithi777/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Krithi777/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -552,4 +554,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Krithi777/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/Krithi777/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
