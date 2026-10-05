@@ -38,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Krithi777/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Krithi777/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0403-frog-jump](https://github.com/Krithi777/leetcode/tree/main/0403-frog-jump/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Krithi777/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0463-island-perimeter](https://github.com/Krithi777/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Krithi777/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Krithi777/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -495,6 +496,7 @@
 | [0322-coin-change](https://github.com/Krithi777/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0343-integer-break](https://github.com/Krithi777/leetcode/tree/main/0343-integer-break/) | Medium |
 | [0403-frog-jump](https://github.com/Krithi777/leetcode/tree/main/0403-frog-jump/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/Krithi777/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Krithi777/leetcode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -520,6 +522,7 @@
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Krithi777/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Krithi777/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Krithi777/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,4 +561,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Krithi777/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Krithi777/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
