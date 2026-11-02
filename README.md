@@ -54,6 +54,7 @@
 | [0739-daily-temperatures](https://github.com/Krithi777/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/Krithi777/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Krithi777/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Krithi777/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Krithi777/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Krithi777/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -141,6 +142,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Krithi777/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Krithi777/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0441-arranging-coins](https://github.com/Krithi777/leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Krithi777/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
