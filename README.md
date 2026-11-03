@@ -22,6 +22,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krithi777/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Krithi777/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/Krithi777/leetcode/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/Krithi777/leetcode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Krithi777/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Krithi777/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krithi777/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -77,6 +78,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Krithi777/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krithi777/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0139-word-break](https://github.com/Krithi777/leetcode/tree/main/0139-word-break/) | Medium |
 | [0202-happy-number](https://github.com/Krithi777/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Krithi777/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Krithi777/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -313,6 +315,7 @@
 | [0058-length-of-last-word](https://github.com/Krithi777/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/Krithi777/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0091-decode-ways](https://github.com/Krithi777/leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0139-word-break](https://github.com/Krithi777/leetcode/tree/main/0139-word-break/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Krithi777/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0415-add-strings](https://github.com/Krithi777/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Krithi777/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -445,6 +448,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Krithi777/leetcode/tree/main/0139-word-break/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Krithi777/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -496,6 +500,7 @@
 | [0091-decode-ways](https://github.com/Krithi777/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krithi777/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Krithi777/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0139-word-break](https://github.com/Krithi777/leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Krithi777/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Krithi777/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Krithi777/leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -515,6 +520,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Krithi777/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Krithi777/leetcode/tree/main/0139-word-break/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -573,4 +579,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Krithi777/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Krithi777/leetcode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
